@@ -4,6 +4,7 @@ I am currently working as a Middle Automation Software Engineer developing compl
 - 🎓 Academic Background:
   -  Master in Cloud Computing and Internet of Things at Politehnica University of Timisoara
   -  Computer Science Bachelor at Politehnica University of Timisoara
-- 📫 You can reach out to me:
+- 📫 You can find me on:
    -  LinkedIn: https://www.linkedin.com/in/purtuc-robert/
    -  Email: purtuc.robert@gmail.com
+   -  Leetcode: https://leetcode.com/PurtucRobert/
