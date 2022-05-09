@@ -1,5 +1,6 @@
 - 👋 Hello, I’m @PurtucRobert, an engineer based in Romania, 
-My main areas of interests are AI solutions involved in eHealth and healthcare systems
+My main areas of interests are web applications, automation and AI solutions involved in eHealth and healthcare systems.
+I like spending my free time doing 🐍 coding challenges on leetcode. 
 I am currently working as a Middle Automation Software Engineer developing complex testing scenarios for High End Firewalls. 
 - 🎓 Academic Background:
   -  Master in Cloud Computing and Internet of Things at Politehnica University of Timisoara
