@@ -4,7 +4,7 @@ Hi 👋 My name is Robert Purtuc
 Web Developer
 -------------
 
-I am an engineer based in Romania, my main areas of interests are web applications, microservices, pythgon automation and AI solutions involved in eHealth and healthcare systems. I like spending my free time doing 🐍 coding challenges on leetcode and learning new technologies. I am currently working as a web developer.
+I am an engineer based in Romania, my main areas of interests are web applications, microservices, python automation and AI solutions involved in eHealth and healthcare systems. I like spending my free time doing 🐍 coding challenges on leetcode and learning new technologies. I am currently working as a web developer.
 
 *   🌍  I'm based in Romania
 *   ✉️  You can contact me at [purtuc.robert@gmail.com](mailto:purtuc.robert@gmail.com)
