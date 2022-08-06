@@ -8,7 +8,6 @@ I am an engineer based in Romania, my main areas of interests are web applicatio
 
 *   🌍  I'm based in Romania
 *   ✉️  You can contact me at [purtuc.robert@gmail.com](mailto:purtuc.robert@gmail.com)
-*   🧠  I'm learning VueJS and Django
 *   🤝  I'm open to collaborating on web dev projects
 
 ### Skills
